@@ -13,7 +13,7 @@ DASHBOARD_IP: 192.168.1.211
 KUBEAPPS_IP: 192.168.1.212
 # Used to automatically generate a sshkey-pair for FluxCD
 # Has to start with ssh://
-GITHUB_REPOSITORY: "ssh://git@github.com:CrispySteak:22/clustertool-06.git"
+GITHUB_REPOSITORY: "ssh://git@github.com/clustertool-06.git"
 
 # DO NOT ALTER
 PODNET: 172.16.0.0/16
